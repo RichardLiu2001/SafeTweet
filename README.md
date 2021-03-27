@@ -10,12 +10,12 @@ First, SafeTweet detects whether or not a Tweet contains a dangerous incident.
 
 For example, these two Tweets contain a dangerous incident:
 
-<img src="Danger_Identification/Pictures/danger_robbery.png" width="40%"> <img src="Danger_Identification/Pictures/danger_march.png" width="50%">
+<img src="Danger_Identification/Pictures/danger_robbery.png" width="40%"><img src="Danger_Identification/Pictures/danger_march.png" width="50%">
 
 
 while these two Tweets do not contain danger:
 
-<img src="Danger_Identification/Pictures/no_danger_turkeys.png" width="40%"><img src="Danger_Identification/Pictures/no_danger_graffiti.png" width="40%">
+<img src="Danger_Identification/Pictures/no_danger_turkeys.png" width="40%"><img src="Danger_Identification/Pictures/no_danger_graffiti.png" width="60%">
 
 To detect danger, first I queried 1000 Tweets using the [Twitter API](https://developer.twitter.com/en/docs). These Tweets were hand-labelled for instances of danger and then used to train a deep learning model with [Keras](https://keras.io/).
 
