@@ -8,7 +8,7 @@ Zoom in to a "hot" area and click a circle to see that individual Tweet, which c
 ## Danger Identification
 First, SafeTweet detects whether or not a Tweet contains a dangerous incident.
 
-For example, 
+For example, ![alt text](Danger_Identification/Pictures/danger_robbery.png)
 
 First, 1000 Tweets were queried using the [Twitter API](https://developer.twitter.com/en/docs). These Tweets were hand-labelled for instances of danger and then used to train a deep learning model with [Keras](https://keras.io/).
 
