@@ -17,6 +17,7 @@ while these two Tweets do not contain danger:
 
 <img src="Danger_Identification/Pictures/no_danger_turkeys.png" width="40%"><img src="Danger_Identification/Pictures/no_danger_graffiti.png" width="60%">
 
+
 To detect danger, first I queried 1000 Tweets using the [Twitter API](https://developer.twitter.com/en/docs). These Tweets were hand-labelled for instances of danger and then used to train a deep learning model with [Keras](https://keras.io/).
 
 Furthermore, I used [Snorkel AI](https://www.snorkel.org/) weak supervision to generate labels for the model using danger keywords, keyword inflections, and [Vader](https://pypi.org/project/vaderSentiment/) sentiment analysis. 
