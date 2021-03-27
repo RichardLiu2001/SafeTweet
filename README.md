@@ -1,5 +1,5 @@
-# [SafeTweet](https://safteyai.web.app/)
-[SafeTweet](https://safteyai.web.app/)
+# SafeTweet
+[SafeTweet Website](https://safteyai.web.app/)
 
 A geographic heat map displaying instances of danger from police Twitter accounts.
 
