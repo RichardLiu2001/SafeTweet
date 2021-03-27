@@ -10,7 +10,7 @@ First, SafeTweet detects whether or not a Tweet contains a dangerous incident.
 
 For example, these two Tweets contain a dangerous incident:
 
-<img src="Danger_Identification/Pictures/danger_robbery.png" width="40%"> <img src="Danger_Identification/Pictures/danger_march.png" width="40%">
+<img src="Danger_Identification/Pictures/danger_robbery.png" width="40%"> <img src="Danger_Identification/Pictures/danger_march.png" width="50%">
 
 
 while these two Tweets do not contain danger:
