@@ -26,3 +26,5 @@ Finally, the model was fine tuned with Google's [BERT](https://github.com/google
 
 ## Heatmap
 Using the Twitter API, over 50,000 Tweets were queried from police departments of major cities, including @NYPDnews, @SeattlePD, @SFPD, and many more. The location of the incidents were extracted from the Tweets using the [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview), and each Tweet was plotted at the location of the incident using the [MapBox API](https://docs.mapbox.com/mapbox-gl-js/example/heatmap-layer/).
+
+The website is hosted with [Google Firebase](https://firebase.google.com/).
