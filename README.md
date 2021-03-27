@@ -6,7 +6,7 @@ A geographic heat map displaying instances of danger from police Twitter account
 Zoom in to a "hot" area and click a circle to see that individual Tweet, which contains instances of danger such as robberies, assaults, battery, etc.
 
 ## Danger Identification
-This involves detecting whether or not a Tweet contains a dangerous incident.
+First, SafeTweet detects whether or not a Tweet contains a dangerous incident.
 
 For example, 
 
