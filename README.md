@@ -4,7 +4,7 @@
 <img src="./mapdemo.png">
 A geographic heat map displaying instances of danger from police Twitter accounts.
 
-Zoom in to a "hot" area and click a circle to see that individual Tweet, which contains instances of danger such as robberies, assaults, battery, etc.
+Zoom in to a "hot" area and click a circle to see that individual Tweet, which contains instances of danger such as robberies, assaults, battery, etc. You can also search for a particular place as well as rotate the map.
 
 ## Danger Identification
 First, SafeTweet detects whether or not a Tweet contains a dangerous incident.
