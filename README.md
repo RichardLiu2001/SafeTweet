@@ -1,6 +1,7 @@
 # SafeTweet
 [SafeTweet Website](https://safteyai.web.app/)
 
+<img src="map_demo.png" width="40%">
 A geographic heat map displaying instances of danger from police Twitter accounts.
 
 Zoom in to a "hot" area and click a circle to see that individual Tweet, which contains instances of danger such as robberies, assaults, battery, etc.
